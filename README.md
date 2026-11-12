@@ -1,16 +1,14 @@
-## Hi there 👋
+### Yutong Qian
 
-<!--
-**YutongQian/YutongQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Nachhaltige Energieversorgung (RWTH Aachen) · SAP-zertifiziert
+(Back-End Developer – ABAP Cloud) · Schwerpunkt Messdatenanalyse und CT-Bildverarbeitung.
 
-Here are some ideas to get you started:
+**Projekte**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [abap-rap-vehicle-app](https://github.com/YutongQian/abap-rap-vehicle-app) –
+  ABAP RAP Case Studies: managed Business Object mit Draft, CDS, EML-Programm,
+  Fiori Elements, Clean-Core-Extensibility
+- [KatzenGegenVogel](https://github.com/YutongQian/KatzenGegenVogel) –
+  vollständiges 2D-Spiel in Java und JavaFX, dreischichtige Architektur
+- CT-Segmentierung: Vergleich von Schwellenwert, Watershed, Random Forest und
+  U-Net an µCT-Daten, Auswertung mit Dice und IoU (Python)
